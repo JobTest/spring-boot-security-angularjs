@@ -20,10 +20,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonProperty.Access;
 
-/**
- * @author Sarath Muraleedharan
- *
- */
 @Entity
 public class AppUser implements UserDetails {
 	@Id

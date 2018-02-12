@@ -7,10 +7,6 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
-/**
- * @author Sarath Muraleedharan
- *
- */
 @Entity
 public class Address {
 
